@@ -1,0 +1,186 @@
+
+
+body {
+
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
+
+
+
+.box {
+
+box-shadow: 30px 30px 100px rgb(57, 154, 172);
+position: relative;
+width: 35em ;
+height: 40em;
+background-color: rgb(255, 255, 255);
+
+
+}
+
+h1 {
+
+width: 5.6em;
+position: relative;
+top: 22%;
+left: 34.5%;
+
+}
+
+h1:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+}
+
+img:nth-child(1) {
+
+    position: absolute;
+    width: 35%;
+    height: 32%;
+    top: -10%;
+    left: 32%;
+    border-radius: 50%;
+    box-shadow: 0 0 50px 10px rgb(57, 154, 172);
+    
+    
+
+}
+
+img:nth-child(2) {
+
+    position: relative;
+    width: 37px;
+    height: 37px;
+    top: 57.7%;
+    left: 26.5%;
+    border-radius: 50%;
+}
+
+img:nth-child(3) {
+
+    position: relative;
+    width: 39px;
+    height: 39px;
+    top: 50%;
+    left: 19%;
+    border-radius: 50%;
+}
+
+img:nth-child(4) {
+
+    position: relative;
+    width: 37px;
+    height: 37px;
+    top: 65.4%;
+    left: 11.5%;
+    border-radius: 50%;
+
+}
+
+img:nth-child(2):hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+    
+    
+ 
+}
+
+img:nth-child(3):hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+    
+ 
+}
+
+img:nth-child(4):hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+    
+ 
+}
+
+.inputs {
+
+position: absolute;
+top: 50%;
+left:35%;
+
+}
+
+#i1 {
+
+    width: 15em;
+    line-height: 2.5em;
+}
+
+#i2 {
+
+    position: fixed;
+    top: 55.5%;
+    width: 15em;
+    line-height: 2.5em;
+}
+
+#i3 {
+
+    position: fixed;
+    top: 60.7%;
+    width: 15em;
+    line-height: 2.5em;
+}
+
+#i4 {
+
+    position: fixed;
+    top: 65.7%;
+    width: 15em;
+    line-height: 2.5em;
+
+
+}
+
+.btn {
+
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    top: 81%;
+    left: 35%;
+}
+
+.btn:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+ 
+}
+
+#i1:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+    
+ 
+}
+
+#i2:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+ 
+}
+
+#i3:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+ 
+}
+
+#i4:hover {
+
+    box-shadow: 0 0 10px 2px rgb(57, 154, 172);
+    
+ 
+}
+
+
+
